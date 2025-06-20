@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # public URL of deployed App
-"chidera.store"
+"www.chidera.store"
 # summary of challenges faced
 "https://medium.com/@sammiederahnnamani/react-aws-deployment-with-terraform-49a436dd00f5"
 
