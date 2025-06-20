@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# public URL of deployed App
+"chidera.store"
+# summary of challenges faced
+"https://medium.com/@sammiederahnnamani/react-aws-deployment-with-terraform-49a436dd00f5"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
